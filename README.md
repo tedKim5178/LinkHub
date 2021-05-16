@@ -18,3 +18,7 @@
 
 ## DI
 * [DI(의존성주입)](https://www.charlezz.com/?p=428)
+
+
+## Retrofit
+* [Multipart](https://futurestud.io/tutorials/retrofit-2-passing-multiple-parts-along-a-file-with-partmap)
